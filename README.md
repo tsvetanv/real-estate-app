@@ -11,7 +11,7 @@
 
  
 ## 1. Project Requirements <a name="projectReq"></a>
-The project requirements are defined in this document.
+The project requirements are defined in this document: ![Java-MVC-Frameworks-Individual-Project-Assignment.docx](https://github.com/tsvetanv/real-estate-app/blob/main/00.%20Java-MVC-Frameworks-Individual-Project-Assignment.docx)
 
 ## 2. Technology Requirements <a name="techReq"></a>
 The project should cover the following technologies and dev techniques:
@@ -34,23 +34,25 @@ RESA is a Real-EState-Application which connects sellers and buyers of real esta
 
 ### 3.2 Use Cases <a name="resaProjectUseCases"></a>
 
-* As an any user (a non-registered user/buyer/seller) I want to search for offer for property by location.
-
+**Offers:**
 * As a seller I want to publish(create) an offer for real estates.
 * As an any user I want to get(read) an offer by id.
 * As a seller I want to edit(update) an offer for real estates.
 * As a seller I want to remove(delete) an offer for real estates.
-
+* As an any user (a non-registered user/buyer/seller) I want to search for offer for property by location.
+  
+**Profile:**
 * As an any user I want to register a profile  in the application.
 * As an any user I want to show my profile in the  application.
 * As an any user I want to edit my profile in the  application.
 * As an any user I want to unregister the profile in the  application.
-
+  
+**Favorite Offer:**
 * As a buyer I want to mark as favorite an offer.
 * As a buyer I want to unmark as favorite an offer.
 * As a buyer I want to see all my favorite offers.
 * As a buyer I want to unmark all my favorite offers.
-
+  
 ## 4. Project Management <a name="projectMngmnt"></a>
 It will be used the Scrum methodology with a 2-weeks timebox iterations.
 
