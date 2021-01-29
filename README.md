@@ -57,7 +57,7 @@ RESA is a Real-EState-Application which connects sellers and buyers of real esta
 It will be used the Scrum methodology with a 2-weeks timebox iterations.
 
 ## 5. Project Timeline <a name="projectTimeline"></a>
-The target deadline of project is 2 months, i.e. it is planned to have 8 iterations. The initial rough slicing of the project to stories is as follow:
+The target deadline of project is 2 months, i.e. it is planned to have 4 iterations. The initial rough slicing of the project to stories is as follow:
 
 * Define the initial data model
 * Implement & test the persistency
